@@ -1,6 +1,8 @@
-# UX Portfolio
+# Ilayda's UX Portfolio
 
-About me...
+![photo](/assets/IMG_3246.JPG)
+
+I am a senior at CSU Chico. I am studying computer science and I have 3 cats.
 
 ## UX Team Project
 
