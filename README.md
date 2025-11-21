@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[When Git Gets Messy: My First Time Using LazyGit](journal/j01-lazygit.md)
