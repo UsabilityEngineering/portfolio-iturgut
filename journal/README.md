@@ -12,7 +12,7 @@ My goal was simple enough: commit my database changes separately from my UI upda
 
 That's when my friend walked by, saw me struggling, and said, "Dude, why don't you just use LazyGit?"
 
-![LazyGit main interface showing file changes](/assets/lazygit-main.png)
+![LazyGit main interface showing file changes](../assets/lazygit-main.png)
 *The LazyGit interface displaying my messy list of modified files*
 
 ## The Experience: Wait, This is Actually Cool
@@ -23,7 +23,7 @@ Instead of the usual blank terminal waiting for me to type commands, I was looki
 
 The coolest thing was how obvious everything was. This is what we learned about in class as **affordance**, basically, **affordance** means the design of something shows you how to use it, like how a door handle tells you whether to push or pull. LazyGit had this everywhere: highlighted items that clearly looked clickable, panels with borders showing they were separate sections, and that bottom menu literally telling me what keys to press. It was such a relief compared to the regular command line where I have to remember every single command or Google it for the hundredth time.
 
-![Staging files in LazyGit](/assets/lazygit-staging.png)
+![Staging files in LazyGit](../assets/lazygit-staging.png)
 *Using the spacebar to stage individual files the green highlight shows what's selected*
 
 ## The Interaction: Actually Figuring It Out
@@ -34,7 +34,7 @@ But here's where it got really cool. I needed to stage only *part* of one file-l
 
 This is where LazyGit's **mental model** just clicked for me. A **mental model** is basically how you think something works in your head like the picture you have of how a system operates. When I think about Git, I picture files and chunks of code as actual things I can pick up and move around. The command line makes me translate all that visual thinking into typed commands, which feels weird. But LazyGit just let me work the way I was already thinking about it. I could literally see each chunk of my changes in different colors and press `space` on just the parts I wanted. It felt natural.
 
-![Partial staging in LazyGit](/assets/lazygit-patch.png)
+![Partial staging in LazyGit](../assets/lazygit-patching.png)
 *Staging individual chunks of code within a single file*
 
 ## The Outcome: Fast But Not Perfect
