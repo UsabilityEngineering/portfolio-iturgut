@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[When Git Gets Messy: My First Time Using LazyGit](journal/README.md)
+[When Git Gets Messy: My First Time Using LazyGit](journal/)
